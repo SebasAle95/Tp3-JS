@@ -7,4 +7,5 @@ function informacionCadena(cadena) {
         document.write("La cadena está formada por una mezcla de mayúsculas y minúsculas.");
     }
 }
-informacionCadena("HOLA");
+informacionCadena("HOLAAAAAAA");
+informacionCadena("chau")
